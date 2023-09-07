@@ -104,35 +104,6 @@ input {
   display: flex;
   flex-wrap: wrap;
   gap: 4rem;
-  width: 80vw;
+  width: 95vw;
   min-height: auto;
 }
-
-/* .games {
-  display: flex;
-  flex-wrap: wrap;
-  margin-bottom: 2rem;
-  height: 20vh;
-  min-width: 25vw;
-  width: 26rem;
-}
-
-.games>div {
-  display: flex;
-  align-items: start;
-  gap: 2rem;
-  height: 8rem;
-  margin-top: 2rem;
-}
-
-.games img {
-  height: 100%;
-  width: 10rem;
-  object-fit: cover;
-
-}
-
-.games h1 {
-  font-size: 5vmin;
-  margin: 0 0 2rem 0.5rem;
-} */
